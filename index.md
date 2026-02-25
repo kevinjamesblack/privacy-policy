@@ -1,9 +1,9 @@
 
-# Privacy Policy
+# Privacy Policy #
 
 Last Updated: February 24, 2026
 
-This Privacy Policy applies to the Quotables macOS application (the "Application").
+This Privacy Policy applies to the **Quotables** macOS application (the "Application").
 
 **1. Overview:**
 The Application is designed to be a privacy-first utility. Its primary function is to display quotes from a user-selected text file or internal resource within a macOS Menu Bar and Widget.
